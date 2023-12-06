@@ -1,4 +1,4 @@
-# Manchester Robotic Systems Design Project Team5 (AERO62520)
+# Manchester Uni Robotic Systems Design Project Team5 (AERO62520)
 
 ## Introduction
 

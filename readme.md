@@ -33,6 +33,7 @@ To get started with our project, please follow the instructions below:
 ## Contact
 
 For any queries or collaborations, feel free to contact us at emails below.
+
 <alexander.morley@student.manchester.ac.uk>
 
 <michalis.iakovides@student.manchester.ac.uk>

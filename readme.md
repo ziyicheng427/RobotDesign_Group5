@@ -25,14 +25,18 @@ To get started with our project, please follow the instructions below:
 
 ## Team Members
 
-- **Alexander Morley** - <alexander.morley@student.manchester.ac.uk>
-- **Michalis Iacovides** - <michalis.iakovides@student.manchester.ac.uk>
-- **Geetik Mamillapalli** - <geetik.mamillapalli@postgrad.manchester.ac.uk>
-- **Ziyi Cheng** - <ziyi.cheng@student.manchester.ac.uk>
+- **Alexander Morley** - <https://shkibby.github.io/AlexanderMorley.github.io/>
+- **Michalis Iacovides** - <https://michalisiakovides.github.io/>
+- **Geetik Mamillapalli** - 
+- **Ziyi Cheng** - <https://ziyicheng427.github.io>
 
 ## Contact
 
-For any queries or collaborations, feel free to contact us at emails above.
+For any queries or collaborations, feel free to contact us at emails below.
+<alexander.morley@student.manchester.ac.uk>
+<michalis.iakovides@student.manchester.ac.uk>
+<geetik.mamillapalli@postgrad.manchester.ac.uk>
+<ziyi.cheng@student.manchester.ac.uk>
 
 ## Acknowledgments
 

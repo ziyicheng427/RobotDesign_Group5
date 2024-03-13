@@ -62,7 +62,7 @@ publisher manages the robot arm's movement by publishing '/sensor_msgs/JointStat
 
 - **Alexander Morley** - <https://shkibby.github.io/AlexanderMorley.github.io/>
 - **Michalis Iacovides** - <https://michalisiakovides.github.io/>
-- **Geetik Mamillapalli** - 
+- **Geetik Mamillapalli** - <https://mgeetik.github.io/>
 - **Ziyi Cheng** - <https://ziyicheng427.github.io>
 
 ## Contact

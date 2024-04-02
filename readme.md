@@ -10,10 +10,11 @@ This repository serves as our collaborative workspace for developing an innovati
 
 The project aims to design and implement a robotic system that combines the mobility of the LeoRover with the functionality of a mechanical arm. This system will be equipped with sensors and AI algorithms to detect, approach, and manipulate objects in various settings.
 
-### Key Features(To be completed)
+### Key Features
 
-- **Autonomous Navigation:** 
-- **Object Detection:**
+- **Autonomous Navigation** 
+- **Object Detection**
+- **Automatic Pickup**
 
 ## Getting Started(To be completed)
 

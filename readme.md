@@ -68,12 +68,15 @@ Special thanks to the University of Manchester and the Robotics Department for t
 1. Navigation in Rviz and Gazebo.
 
 ![](/Videos/exploration.gif)
+
 2. Testing of manipulator.
 
 ![](/Videos/manipulator_test.gif)
+
 3. Testing of Leorover
 
 ![](/Videos/nav_test.gif)
+
 4. Testing of object detection.
 
 ![](/Videos/obj_detection.gif)
